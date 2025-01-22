@@ -1,6 +1,4 @@
-# 3013-Algorithms
-
-## Noe Morales
+# Noe Morales
 
 #### Repo: 3013-Algorithms-Noe-M
 
