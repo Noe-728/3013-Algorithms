@@ -1,3 +1,4 @@
-# COS - Celebration of scholorship
------------------------------------------
+# COS - Celebration of scholorship\
+
+:--------------------:
 :--------------------:
